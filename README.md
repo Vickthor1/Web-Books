@@ -1,5 +1,5 @@
 ## Web Books
-<p>
+<p align="left">
                 Bem-vindo ao nosso website de biblioteca online!
                 <br>
                 Em nosso website, você encontrará uma vasta coleção de recursos de informação, incluindo livros eletrônicos, artigos acadêmicos, jornais, revistas, vídeos e muito mais.
@@ -14,3 +14,4 @@
                 <br>
                 Estamos comprometidos em oferecer a você uma experiência excepcional de aprendizado e pesquisa.
 </p>
+<img src="https://images.vexels.com/media/users/3/267831/isolated/preview/cd079d709300f6af3cdfa75b83d35db8-a-cone-de-livros-aconchegantes-de-inverno.png">
