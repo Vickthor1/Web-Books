@@ -14,4 +14,4 @@
                 <br>
                 Estamos comprometidos em oferecer a você uma experiência excepcional de aprendizado e pesquisa.
 </p>
-<img src="https://images.vexels.com/media/users/3/267831/isolated/preview/cd079d709300f6af3cdfa75b83d35db8-a-cone-de-livros-aconchegantes-de-inverno.png">
+<img align="left" height="250" wight="250" src="https://images.vexels.com/media/users/3/267831/isolated/preview/cd079d709300f6af3cdfa75b83d35db8-a-cone-de-livros-aconchegantes-de-inverno.png"/>
